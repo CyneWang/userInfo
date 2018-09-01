@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+label{
+    text-align: center;
+}
+#myForm{
+    margin-top: 6vh;
+}
+#myTable tr td{
+    vertical-align: middle;
+}
+
